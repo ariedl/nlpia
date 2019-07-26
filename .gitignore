@@ -91,3 +91,4 @@ src/nlpia/data/aiml-en-us-foundation-alice/
 # models
 *.ann
 
+Pipfile.lock

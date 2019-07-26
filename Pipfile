@@ -1,0 +1,45 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+annoy = "*"
+coverage = "*"
+cufflinks = "*"
+future = "*"
+gensim = "*"
+html2text = "*"
+jupyter = "*"
+matplotlib = "*"
+nltk = "*"
+opencv-python = "*"
+pathlib = "*"
+plac = "*"
+plotly = "*"
+plyfile = "*"
+pugnlp = "*"
+pytest = "*"
+qtconsole = "*"
+redis = ">=2.10.6,<2.11.0"
+scikit-learn = "*"
+scipy = "*"
+seaborn = "*"
+spacy = "*"
+tensorflow = "*"
+tensorflow-hub = "*"
+tqdm = "*"
+AIML-Bot = "<0.1.0,>=0.0.3"
+Cython = "*"
+Keras = "*"
+Keras-Applications = "*"
+Keras-Preprocessing = "*"
+MechanicalSoup = "*"
+Pillow = "*"
+python-Levenshtein = "*"
+Theano = "*"
+
+[requires]
+python_version = "3.6"
