@@ -92,3 +92,7 @@ src/nlpia/data/aiml-en-us-foundation-alice/
 *.ann
 
 Pipfile.lock
+
+src/nlpia/book/examples/aclImdb/*
+
+*.json
